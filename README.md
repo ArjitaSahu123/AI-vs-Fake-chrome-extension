@@ -41,17 +41,17 @@ Unlike traditional reverse-image search or metadata-checker tools, **AI-vs-Fake*
 
 ### Folder Structure
 AI-vs-Fake-chrome-extension/
-├── backend/
-│   ├── app.py
-│   ├── model1.pth
-│   ├── model2.pth
-│   └── requirements.txt
-├── chrome-extension/
-│   ├── popup.html
-│   ├── manifest.json
-│   └── images/
-│       └── icon16.png
-├── README.md
+- ├── backend/
+- │   ├── app.py
+- │   ├── model1.pth
+- │   ├── model2.pth
+- │   └── requirements.txt
+- ├── chrome-extension/
+- │   ├── popup.html
+- │   ├── manifest.json
+- │   └── images/
+- │       └── icon16.png
+- ├── README.md
 
 
 ## 📦 Installation
