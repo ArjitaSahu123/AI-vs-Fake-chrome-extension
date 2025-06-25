@@ -114,7 +114,7 @@ python app.py
 
 
 ### Google colab notebook for ml model training
-- https://drive.google.com/file/d/1M7qlWe-L-AGGHDiS8MdcygQsCBhU6Sd5/view?usp=sharing
+- https://colab.research.google.com/drive/1qsgndAAx6FvU5f5RKhXmhXhuN8C-cxSe?usp=sharing
   
 ### 🤝 Contributing
 - Fork the repository
